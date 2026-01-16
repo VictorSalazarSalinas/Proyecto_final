@@ -1,7 +1,7 @@
 package com.mx_curso;
 public class Algoritmos {
 
-    // --- ORDENAMIENTO ---
+    // ORDENAMIENTO
 
     // O(n^2) - Burbuja
     public static void bubbleSort(int[] arr) {
@@ -43,7 +43,7 @@ public class Algoritmos {
         return i + 1;
     }
 
-    // --- BÚSQUEDA ---
+    //  BÚSQUEDA
 
     // O(n) - Secuencial
     public static int busquedaSecuencial(int[] arr, int x) {
