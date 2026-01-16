@@ -1,9 +1,10 @@
-Análisis de Rendimiento Algorítmico y Estructuras de DatosEste proyecto es una herramienta integral desarrollada en Java para la 
-medición, visualización y análisis de la complejidad algorítmica (O grande). Permite comparar algoritmos de ordenamiento, búsqueda 
-y operaciones en estructuras lineales mediante pruebas de escalabilidad con volúmenes de datos desde 10^3 hasta 10^5.
+Análisis de Rendimiento Algorítmico y Estructuras de Datos
+    Este proyecto es una herramienta integral desarrollada en Java para la 
+    medición, visualización y análisis de la complejidad algorítmica (O grande). Permite comparar algoritmos de ordenamiento, búsqueda 
+    y operaciones en estructuras lineales mediante pruebas de escalabilidad con volúmenes de datos desde 10^3 hasta 10^5.
 
 1. Arquitectura del Software
-El software sigue el patrón de diseño Modular y Basado en Componentes. Se ha priorizado la separación de responsabilidades para garantizar que la lógica de cálculo sea independiente de la representación visual.
+    El software sigue el patrón de diseño Modular y Basado en Componentes. Se ha priorizado la separación de responsabilidades para garantizar que la lógica de cálculo sea independiente de la representación visual.
 
 Capas del Sistema:
     Capa de Lógica (Algoritmos): Contiene las implementaciones puras de ordenamiento, búsqueda y manejo de nodos.
